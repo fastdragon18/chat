@@ -3,8 +3,8 @@
 ![](assets/preview.png)
 
 
-预览: [119.cab](https://119.cab)
-个人博客：[是枭](https://blog.evv1.com)
+预览: [tg-bot.ml](https://www.tg-bot.ml/)
+个人博客：[速龙博客](https://blog.ahayu.cn)
 
 ## 部署一个你自己的（免费）
 
@@ -12,7 +12,7 @@
 
 如果你只需要部署一个你自己用的网站，而不需要定制，那么你完全不需要在本地跑起来，你可以直接点击下面的按钮，然后按照提示操作即可。 vercel 域名已经被墙，但 vercel 本身没有被墙，所以你绑定自己的域名就可以了。
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/huanfeng123/huanfeng)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/fastdragon18/chat)
 
 如果你需要部署给更多人用，那么你可能需要将上面创建的你自己的仓库 `git clone` 到本地。
 
